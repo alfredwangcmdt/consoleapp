@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.printf("hello world");
         System.out.printf("i am fine" );
+        System.out.printf("good sun");
     }
 }
